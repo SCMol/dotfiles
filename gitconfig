@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = s.conor.molloy@gmail.com
+	email = conor@quacks.ai
 	name = Conor Molloy
